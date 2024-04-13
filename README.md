@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Vikki3000
 - 👀 I’m interested in artificial intelligence 
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on Microsoft 
+- 💝 I'm a Graphic Designer
+- 🔥 Certified by Google & HP 
 - 📫 g mail - vikastark1234@gmail.com
 
 <!---
