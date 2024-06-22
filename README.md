@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Vikki3000
-- 👀 I’m interested in artificial intelligence 
-- 🌱 I’m currently learning python 
-- 💝 I'm a Graphic Designer
+- 👀 Interested in Artificial Intelligence
+- 🌱 Currently learning Python 
+- 💝 I'm a Digital Marketer 
 - 🔥 Certified by Google & HP 
-- 📫 g mail - vikastark1234@gmail.com
+- 📫 G.mail - vikastark1234@gmail.com
 
 <!---
 Vikki3000/Vikki3000 is a ✨ special ✨ repository because its `ABOUT.md` (this file) appears on your GitHub profile.
